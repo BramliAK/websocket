@@ -53,8 +53,8 @@ spring:
     mail:
         host: localhost
         port: 25
-        username: makbook2016@gmail.com
-        password: khalilmaha
+        username:
+        password: 
     messages:
         cache-seconds: 1
     thymeleaf:
